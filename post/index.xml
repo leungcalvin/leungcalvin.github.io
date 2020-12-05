@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Calvin Leung</title>
+    <link>leungcalvin.github.io/post/</link>
+      <atom:link href="leungcalvin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 12:28:57 -0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/leungcalvin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>leungcalvin.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Physics Synopsis: Random Bit Stream from Cosmic Light</title>
+      <link>leungcalvin.github.io/post/arngsynopsis/</link>
+      <pubDate>Sat, 05 Dec 2020 12:28:57 -0800</pubDate>
+      <guid>leungcalvin.github.io/post/arngsynopsis/</guid>
+      <description>&lt;p&gt;To help test quantum physics, a new method generates random numbers using light from distant stars and quasars that presumably have no correlation with experiments on Earth. A small fraction of publications in all APS journals are selected to be featured in Physics: &lt;a href=&#34;https://physics.aps.org/articles/v11/s48&#34;&gt;https://physics.aps.org/articles/v11/s48&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quanta Magazine: Experiment Reaffirms Quantum Weirdness</title>
+      <link>leungcalvin.github.io/post/quanta/</link>
+      <pubDate>Sat, 05 Dec 2020 12:25:16 -0800</pubDate>
+      <guid>leungcalvin.github.io/post/quanta/</guid>
+      <description>&lt;p&gt;Full article here: &lt;a href=&#34;https://www.quantamagazine.org/physicists-are-closing-the-bell-test-loophole-20170207/&#34;&gt;https://www.quantamagazine.org/physicists-are-closing-the-bell-test-loophole-20170207/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PBS/NOVA: Einstein&#39;s Quantum Riddle</title>
+      <link>leungcalvin.github.io/post/eqr/</link>
+      <pubDate>Sat, 05 Dec 2020 12:17:10 -0800</pubDate>
+      <guid>leungcalvin.github.io/post/eqr/</guid>
+      <description>&lt;p&gt;Full documentary here: &lt;a href=&#34;https://www.pbs.org/wgbh/nova/video/einsteins-quantum-riddle/&#34;&gt;https://www.pbs.org/wgbh/nova/video/einsteins-quantum-riddle/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I served on a discussion panel after a film screening, which Nicola Yunger Halpern writes about in her blog Quantum Frontiers. And yes, I am laughing with her in this picture. &lt;a href=&#34;https://quantumfrontiers.com/2019/01/27/humans-can-intuit-quantum-physics/&#34;&gt;https://quantumfrontiers.com/2019/01/27/humans-can-intuit-quantum-physics/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIT researchers help discover first pattern of fast radio bursts in outer space</title>
+      <link>leungcalvin.github.io/post/globe2020/</link>
+      <pubDate>Sat, 05 Dec 2020 12:10:03 -0800</pubDate>
+      <guid>leungcalvin.github.io/post/globe2020/</guid>
+      <description>&lt;p&gt;I was quoted in the Globe! I am very excited to use fast radio bursts as tools for precision measurements. &lt;a href=&#34;https://www.bostonglobe.com/2020/06/19/metro/mit-researchers-help-discover-first-pattern-fast-radio-bursts-outer-space/&#34;&gt;https://www.bostonglobe.com/2020/06/19/metro/mit-researchers-help-discover-first-pattern-fast-radio-bursts-outer-space/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

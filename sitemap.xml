@@ -3,92 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/talk/salf2020/</loc>
+    <loc>leungcalvin.github.io/</loc>
+    <lastmod>2020-12-05T12:28:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>leungcalvin.github.io/post/arngsynopsis/</loc>
+    <lastmod>2020-12-05T12:28:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>leungcalvin.github.io/post/</loc>
+    <lastmod>2020-12-05T12:28:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>leungcalvin.github.io/post/quanta/</loc>
+    <lastmod>2020-12-05T12:25:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>leungcalvin.github.io/post/eqr/</loc>
+    <lastmod>2020-12-05T12:17:10-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>leungcalvin.github.io/post/globe2020/</loc>
+    <lastmod>2020-12-05T12:10:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>leungcalvin.github.io/talk/salf2020/</loc>
     <lastmod>2020-12-05T02:32:19-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>leungcalvin.github.io/talk/</loc>
     <lastmod>2020-12-05T02:32:19-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-12-05T02:32:19-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/cosmology/</loc>
+    <loc>leungcalvin.github.io/tag/cosmology/</loc>
     <lastmod>2020-12-05T01:36:15-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/frb/</loc>
+    <loc>leungcalvin.github.io/tag/frb/</loc>
     <lastmod>2020-12-05T01:36:15-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/lensing/</loc>
+    <loc>leungcalvin.github.io/project/lensing/</loc>
     <lastmod>2020-12-05T01:36:15-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>leungcalvin.github.io/project/</loc>
     <lastmod>2020-12-05T01:36:15-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>leungcalvin.github.io/tags/</loc>
     <lastmod>2020-12-05T01:36:15-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/vlbi/</loc>
+    <loc>leungcalvin.github.io/project/vlbi/</loc>
     <lastmod>2020-12-05T01:35:20-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/instrumentation/</loc>
+    <loc>leungcalvin.github.io/tag/instrumentation/</loc>
     <lastmod>2020-12-05T01:35:20-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/ursi2020/</loc>
+    <loc>leungcalvin.github.io/talk/ursi2020/</loc>
     <lastmod>2020-08-31T02:32:11-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/netcgf2020/</loc>
+    <loc>leungcalvin.github.io/talk/netcgf2020/</loc>
     <lastmod>2020-07-01T02:31:53-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/neroc2019/</loc>
+    <loc>leungcalvin.github.io/talk/neroc2019/</loc>
     <lastmod>2019-11-01T10:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>leungcalvin.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>/author/calvin-leung/</loc>
+    <loc>leungcalvin.github.io/author/calvin-leung/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>leungcalvin.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>leungcalvin.github.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
+    <loc>leungcalvin.github.io/publication/</loc>
   </url>
   
 </urlset>
