@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/author/calvin-leung/</loc>
+  </url>
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://calvin-leung.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>
