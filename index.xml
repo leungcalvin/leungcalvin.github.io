@@ -5,12 +5,61 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 02:32:19 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>A Synoptic VLBI Technique for Localizing Fast Radio Bursts with CHIME/FRB</title>
+      <link>/talk/salf2020/</link>
+      <pubDate>Sat, 05 Dec 2020 02:32:19 -0800</pubDate>
+      <guid>/talk/salf2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localizing CHIME/FRB&#39;s Fast Radio Bursts for Cosmology</title>
+      <link>/talk/netcgf2020/</link>
+      <pubDate>Sat, 05 Dec 2020 02:31:53 -0800</pubDate>
+      <guid>/talk/netcgf2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lensing</title>
+      <link>/project/lensing/</link>
+      <pubDate>Sat, 05 Dec 2020 01:36:15 -0800</pubDate>
+      <guid>/project/lensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRB VLBI</title>
+      <link>/project/vlbi/</link>
+      <pubDate>Sat, 05 Dec 2020 01:35:20 -0800</pubDate>
+      <guid>/project/vlbi/</guid>
+      <description>&lt;p&gt;The CHIME/FRB collaboration wants to build outriggers on thousand-kilometer baselines for a low-frequency, widefield, blind VLBI survey. Within the collaboration I have demonstrated the first triggered VLBI on two fast radio bursts with CHIME telescope over a short baseline, with the goal of the first detection on hundred- and thousand- kilometer baselines within the next year.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demonstration of a Synoptic VLBI Technique for Localizing a Non-Repeating Fast Radio Burst with CHIME/FRB</title>
+      <link>/talk/ursi2020/</link>
+      <pubDate>Mon, 31 Aug 2020 02:32:11 -0800</pubDate>
+      <guid>/talk/ursi2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Northeast Radio Observatory Corporation 2019</title>
+      <link>/talk/neroc2019/</link>
+      <pubDate>Fri, 01 Nov 2019 10:00:00 -0800</pubDate>
+      <guid>/talk/neroc2019/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

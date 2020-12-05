@@ -3,7 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talk/salf2020/</loc>
+    <lastmod>2020-12-05T02:32:19-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2020-12-05T02:32:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-12-05T02:32:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/netcgf2020/</loc>
+    <lastmod>2020-12-05T02:31:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cosmology/</loc>
+    <lastmod>2020-12-05T01:36:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/frb/</loc>
+    <lastmod>2020-12-05T01:36:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/lensing/</loc>
+    <lastmod>2020-12-05T01:36:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-12-05T01:36:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-05T01:36:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vlbi/</loc>
+    <lastmod>2020-12-05T01:35:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/instrumentation/</loc>
+    <lastmod>2020-12-05T01:35:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ursi2020/</loc>
+    <lastmod>2020-08-31T02:32:11-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/neroc2019/</loc>
+    <lastmod>2019-11-01T10:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -11,11 +72,11 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/author/calvin-leung/</loc>
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
@@ -28,14 +89,6 @@
   
   <url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
