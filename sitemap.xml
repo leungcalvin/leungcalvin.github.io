@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://calvin-leung.netlify.app/authors/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://calvin-leung.netlify.app/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://calvin-leung.netlify.app/author/calvin-leung/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://calvin-leung.netlify.app/categories/</loc>
+    <loc>/author/nelson-bighetti/</loc>
   </url>
   
   <url>
-    <loc>https://calvin-leung.netlify.app/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://calvin-leung.netlify.app/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://calvin-leung.netlify.app/publication/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://calvin-leung.netlify.app/talk/</loc>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>https://calvin-leung.netlify.app/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
