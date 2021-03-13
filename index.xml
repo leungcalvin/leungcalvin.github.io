@@ -5,12 +5,49 @@
     <link>leungcalvin.github.io/</link>
       <atom:link href="leungcalvin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Calvin Leung</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 12:28:57 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:18:11 -0800</lastBuildDate>
     <image>
       <url>/leungcalvin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Calvin Leung</title>
       <link>leungcalvin.github.io/</link>
     </image>
+    
+    <item>
+      <title>Cosmic Bell Test: Measurement Settings from Milky Way Stars</title>
+      <link>leungcalvin.github.io/publication/handsteiner2017cosmic/</link>
+      <pubDate>Mon, 14 Dec 2020 00:18:11 -0800</pubDate>
+      <guid>leungcalvin.github.io/publication/handsteiner2017cosmic/</guid>
+      <description>&lt;p&gt;In a Cosmic Bell test, the statistical significance of the final result&amp;ndash;a violation of Bell locality&amp;ndash;is extremely sensitive to sky glow and color filter bandwidth overlap within the astronomical random number generators. Skyglow and filter overlap introduce &amp;ldquo;local&amp;rdquo; photons into (what is supposed to be) a cosmic Bell test, in which all setting pairs are astronomical in origin. I developed a formalism to take these effects into account for this groundbreaking paper led by Johannes
+Handsteiner at the IQOQI-Vienna.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cosmic Bell Test Using Random Measurement Settings from High-Redshift Quasars</title>
+      <link>leungcalvin.github.io/publication/rauch2018cosmic/</link>
+      <pubDate>Mon, 14 Dec 2020 00:17:45 -0800</pubDate>
+      <guid>leungcalvin.github.io/publication/rauch2018cosmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the Weak Equivalence Principle with Optical and Near-Infrared Crab Pulses</title>
+      <link>leungcalvin.github.io/publication/leung2018testing/</link>
+      <pubDate>Mon, 14 Dec 2020 00:16:50 -0800</pubDate>
+      <guid>leungcalvin.github.io/publication/leung2018testing/</guid>
+      <description>&lt;p&gt;My first foray into serious astrophysics happened by accident when I realized that testing data from our astronomical random number generator could be used to time the Crab pulsar. This is nothing new, but I realized we could also set the first limits for equivalence principle violation for photons between visible and near-infrared light. Did we expect a violation? Of course not! To high-energy physics, optical and near-infrared photons are basically the same. There&amp;rsquo;s great work on measuring the differences between radio photons and gamma ray photons, for which any deviations from equivalence would be magnified, but those kinds of measurements are subject to all kinds of pulsar timing systematics (e.g. different instruments, different clocks, plasma dispersion).
+However, nobody had used optical single photon detectors to study the Crab in different bands simultaneously (work done by Naletto et al. on AQUEYE uses one broad passband), and the opportunity to perform a precise, systematic-free measurement was too good to resist. The lesson learned was that differences in the shape of the pulsar&amp;rsquo;s light curve dominate phase estimation at the part-per-thousand level that we were able to resolve&amp;ndash;and the phase delay measurement becomes strongly method-dependent.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Astronomical Random Numbers for Quantum Foundations Experiments</title>
+      <link>leungcalvin.github.io/publication/leung2018astronomical/</link>
+      <pubDate>Mon, 14 Dec 2020 00:16:02 -0800</pubDate>
+      <guid>leungcalvin.github.io/publication/leung2018astronomical/</guid>
+      <description>&lt;p&gt;I led a publication to rigorously answer the fascinating question of &amp;ldquo;How truly random are bits from astronomical photons?&amp;rdquo;, and came up with a few unique quantum optics experiments utilizing astronomical randomness. Some foundational thought experiments&amp;ndash;including quantum and classical variants of the familiar double-slit experiment&amp;ndash;can be interpreted in novel ways when implemented using random astronomical setting choices.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Physics Synopsis: Random Bit Stream from Cosmic Light</title>
@@ -45,7 +82,8 @@
       <link>leungcalvin.github.io/post/globe2020/</link>
       <pubDate>Sat, 05 Dec 2020 12:10:03 -0800</pubDate>
       <guid>leungcalvin.github.io/post/globe2020/</guid>
-      <description>&lt;p&gt;I was quoted in the Globe! I am very excited to use fast radio bursts as tools for precision measurements. &lt;a href=&#34;https://www.bostonglobe.com/2020/06/19/metro/mit-researchers-help-discover-first-pattern-fast-radio-bursts-outer-space/&#34;&gt;https://www.bostonglobe.com/2020/06/19/metro/mit-researchers-help-discover-first-pattern-fast-radio-bursts-outer-space/&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;I was quoted in the Globe! I am very excited to use fast radio bursts as tools for precision measurements. The biggest limitation of FRB science right now is associating FRBs to their host galaxies. When we can do this, we will be able to extract each FRB&amp;rsquo;s redshift, the standard distance measure for cosmologists. We can connect the existing cosmological paradigm to the exciting new observables that FRBs provide|dispersion, magnetic field measurements, precise time delays, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bostonglobe.com/2020/06/19/metro/mit-researchers-help-discover-first-pattern-fast-radio-bursts-outer-space/&#34;&gt;https://www.bostonglobe.com/2020/06/19/metro/mit-researchers-help-discover-first-pattern-fast-radio-bursts-outer-space/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -58,11 +96,13 @@
     </item>
     
     <item>
-      <title>Lensing</title>
+      <title>Searching for Gravitationally Lensed FRBs</title>
       <link>leungcalvin.github.io/project/lensing/</link>
       <pubDate>Sat, 05 Dec 2020 01:36:15 -0800</pubDate>
       <guid>leungcalvin.github.io/project/lensing/</guid>
-      <description></description>
+      <description>&lt;p&gt;The transient nature of fast radio bursts gives them enormous potential as cosmological probes through gravitational lensing. In addition, as in the case for gravitational waves, radio antennas detect the field amplitude directly rather than the power of the radiation, enabling coherent searches for multi-path propagation. Strongly-lensed fast radio bursts can then be used as cosmological interferometers, probing vast propagation distances with bandwidth-limited time resolution, to uncover a wealth of never-before-seen observables. I am leading the
+gravitational lensing working group within the CHIME/FRB collaboration to search for these rare events.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -70,7 +110,7 @@
       <link>leungcalvin.github.io/project/vlbi/</link>
       <pubDate>Sat, 05 Dec 2020 01:35:20 -0800</pubDate>
       <guid>leungcalvin.github.io/project/vlbi/</guid>
-      <description>&lt;p&gt;The CHIME/FRB collaboration wants to build outriggers on thousand-kilometer baselines for a low-frequency, widefield, blind VLBI survey. Within the collaboration I have demonstrated the first triggered VLBI on two fast radio bursts with CHIME telescope over a short baseline, with the goal of the first detection on hundred- and thousand- kilometer baselines within the next year.&lt;/p&gt;
+      <description>&lt;p&gt;The CHIME/FRB collaboration wants to build outriggers on thousand-kilometer baselines for a low-frequency, widefield, blind VLBI survey. This will, at minimum, unlock redshift information for thousands of FRBs, enabling cosmological measurements using FRBs. Within the collaboration I have demonstrated the first interferometric localizations on two fast radio bursts with CHIME telescope over a short baseline with two telescopes, with the goal of the first detection on hundred- and thousand- kilometer baselines within the next year. For our long baseline work we collaborate with Pranav Sanghavi and Kevin Bandura at Green Bank Observatory and Tomas Cassanelli and Keith Vanderlinde at Algonquin Radio Observatory on prototype outriggers.&lt;/p&gt;
 </description>
     </item>
     

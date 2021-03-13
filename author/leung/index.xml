@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Calvin Leung</title>
-    <link>leungcalvin.github.io/publication/</link>
-      <atom:link href="leungcalvin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:18:11 -0800</lastBuildDate>
+    <title>Leung | Calvin Leung</title>
+    <link>leungcalvin.github.io/author/leung/</link>
+      <atom:link href="leungcalvin.github.io/author/leung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leung</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:16:50 -0800</lastBuildDate>
     <image>
       <url>/leungcalvin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>leungcalvin.github.io/publication/</link>
+      <title>Leung</title>
+      <link>leungcalvin.github.io/author/leung/</link>
     </image>
-    
-    <item>
-      <title>Cosmic Bell Test: Measurement Settings from Milky Way Stars</title>
-      <link>leungcalvin.github.io/publication/handsteiner2017cosmic/</link>
-      <pubDate>Mon, 14 Dec 2020 00:18:11 -0800</pubDate>
-      <guid>leungcalvin.github.io/publication/handsteiner2017cosmic/</guid>
-      <description>&lt;p&gt;In a Cosmic Bell test, the statistical significance of the final result&amp;ndash;a violation of Bell locality&amp;ndash;is extremely sensitive to sky glow and color filter bandwidth overlap within the astronomical random number generators. Skyglow and filter overlap introduce &amp;ldquo;local&amp;rdquo; photons into (what is supposed to be) a cosmic Bell test, in which all setting pairs are astronomical in origin. I developed a formalism to take these effects into account for this groundbreaking paper led by Johannes
-Handsteiner at the IQOQI-Vienna.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cosmic Bell Test Using Random Measurement Settings from High-Redshift Quasars</title>
-      <link>leungcalvin.github.io/publication/rauch2018cosmic/</link>
-      <pubDate>Mon, 14 Dec 2020 00:17:45 -0800</pubDate>
-      <guid>leungcalvin.github.io/publication/rauch2018cosmic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Testing the Weak Equivalence Principle with Optical and Near-Infrared Crab Pulses</title>
