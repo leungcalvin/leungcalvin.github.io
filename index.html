@@ -1,61 +1,108 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<html>
-<head>
-<title>Mathedemo</title>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-<script type="text/javascript"
-  src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-</head>
-
+  <head>
+    <title> Calvin Leung </title>
+	<style type="text/css">
+    		body{
+    		    line-height: 1.5;
+    		    padding: 4em 1em;
+    		    width:900px;
+    		    margin-left:auto;
+    		    margin-right:auto;
+		    font-size:1.05em;
+			font-family: Georgia;
+    		}
+		li{
+ 	   	    margin: .5em 0;
+		}
+	</style>
+	<link rel="stylesheet" href="main.css">
+  </head>
 <body>
-<h2>Math in TeX notation</h2>
+    <img src="20220723153434.pngG" style="float:right;height:250px" hspace="20px">
+    <h1> Calvin Leung </h1>
+    <p> Hi! I'm a first-year graduate student in EECS at MIT, and am fortunate to be advised by <a href="https://people.csail.mit.edu/moitra/">Ankur Moitra</a>. My current research interests are in computational learning theory and related topics: high-dimensional statistics, optimization, and theoretical machine learning. </p>
+	<p> I am grateful to be supported by an NDSEG Fellowship and an MIT Akamai Fellowship. </p>
+    <p> To reach me: [first initial][last name]@mit.edu  </p>
+    <h2>Publications and Preprints </h2>
+    <ol reversed>
 
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-$$ \begin{array}{rcll}
-y & = & x^{2}+bx+c\\
-  & = & x^{2}+2\times\dfrac{b}{2}x+c\\
-  & = & \underbrace{x^{2}+2\times\dfrac{b}{2}x+\left(\frac{b}{2}\right)^{2}}-
-      {\left(\dfrac{b}{2}\right)^{2}+c}\\
-  &  & \qquad\left(x+{\dfrac{b}{2}}\right)^{2}\\
-  & = & \left(x+\dfrac{b}{2}\right)^{2}-\left(\dfrac{b}{2}\right)^{2}+c
-  & \left|+\left({\dfrac{b}{2}}\right)^{2}-c\right.\\
-    y+\left(\dfrac{b}{2}\right)^{2}-c & = & \left(x+
-    \dfrac{b}{2}\right)^{2} & \left|\strut(\textrm{vertex form})\right.\\
-y-y_{S} & = & (x-x_{S})^{2}\\
-S(x_{S};y_{S}) & \,\textrm{or}\,
-    & S\left(-\dfrac{b}{2};\,\left(\dfrac{b}{2}\right)^{2}-c\right)
-\end{array} $$
+	<li> <strong>Learning in Observable POMDPs, without Computationally Intractable Oracles</strong><br>
+	with <a href="https://people.csail.mit.edu/moitra/">Ankur Moitra</a> and <a href="https://noahgol.github.io/">Noah Golowich</a><br>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2206.03446">arXiv:2206.03446</a>] </div>
+	</li>
 
-<h2>Math in MathML notation</h2>
+	<li> <strong>Provably Auditing Ordinary Least Squares in Low Dimensions</strong><br>
+	with <a href="https://people.csail.mit.edu/moitra/">Ankur Moitra</a><br>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2205.14284">arXiv:2205.14284</a>] </div>
+	</li>
 
-When <math><mi>a</mi><mo>&#x2260;</mo><mn>0</mn></math>,
-there are two solutions to <math>
-  <mi>a</mi><msup><mi>x</mi><mn>2</mn></msup>
-  <mo>+</mo> <mi>b</mi><mi>x</mi>
-  <mo>+</mo> <mi>c</mi> <mo>=</mo> <mn>0</mn>
-</math> and they are
-<math mode="display">
-  <mi>x</mi> <mo>=</mo>
-  <mrow>
-    <mfrac>
-      <mrow>
-        <mo>&#x2212;</mo>
-        <mi>b</mi>
-        <mo>&#x00B1;</mo>
-        <msqrt>
-          <msup><mi>b</mi><mn>2</mn></msup>
-          <mo>&#x2212;</mo>
-          <mn>4</mn><mi>a</mi><mi>c</mi>
-        </msqrt>
-      </mrow>
-      <mrow> <mn>2</mn><mi>a</mi> </mrow>
-    </mfrac>
-  </mrow>
-  <mtext>.</mtext>
-</math>
-</body>
+
+	<li> <strong>Distributional Hardness Against Preconditioned Lasso via Erasure-Robust Designs</strong><br>
+	with <a href="https://math.mit.edu/~kelner/">Jonathan Kelner</a>, <a href="https://frkoehle.github.io/">Frederic Koehler</a>, and <a href="https://raghumeka.github.io">Raghu Meka</a> <br>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2203.02824">arXiv:2203.02824</a>] </div>
+	</li>
+
+	<li> <strong>Planning in Observable POMDPs in Quasipolynomial Time</strong><br>
+	with <a href="https://people.csail.mit.edu/moitra/">Ankur Moitra</a> and <a href="https://noahgol.github.io/">Noah Golowich</a><br>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2201.04735">arXiv:2201.04735</a>] </div>
+	</li>
+
+	<li> <strong>Robust Generalized Method of Moments: A Finite Sample Viewpoint</strong><br>
+	with <a href="http://www.vsyrgkanis.com/">Vasilis Syrgkanis</a> <br>
+	<div class="publication-conference"> Preliminary version selected for Oral Presentation at <b>MLECON Workshop</b> (NeurIPS 2021) </div>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2110.03070">arXiv:2110.03070</a>] </div>
+	</li>
+	
+	<li> <strong>On the Power of Preconditioning in Sparse Linear Regression</strong><br>
+	with <a href="https://math.mit.edu/~kelner/">Jonathan Kelner</a>, <a href="https://frkoehle.github.io/">Frederic Koehler</a>, and <a href="https://raghumeka.github.io">Raghu Meka</a> <br>
+	<div class="publication-conference"> <b>FOCS 2021</b> &#9830 62nd Annual IEEE Symposium on Foundations of Computer Science. </div>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2106.09207">arXiv:2106.09207</a>] 
+	[<a href="https://www.computer.org/csdl/proceedings-article/focs/2022/205500a550/1BtfDNd1oju">Conference</a>] </div>
+	</li>
+	
+	<li> <strong>Truncated Linear Regression in High Dimensions</strong><br>
+	with <a href="http://people.csail.mit.edu/costis/">Costis Daskalakis</a> and <a href="https://mzampet.com/">Manolis Zampetakis</a>
+	<div class="publication-conference"> <b> NeurIPS 2020 </b> &#9830 34th Conference on Neural Information Processing Systems.</div>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2007.14539">arXiv:2007.14539</a>]
+	[<a href="https://proceedings.neurips.cc/paper/2020/hash/751f6b6b02bf39c41025f3bcfd9948ad-Abstract.html">Conference</a>] </div>
+	</li>
+	
+	<li> <strong>Constant-Expansion Suffices for Compressed Sensing with Generative Priors</strong><br>
+	with <a href="http://people.csail.mit.edu/costis/">Costis Daskalakis</a> and <a href="https://mzampet.com/">Manolis Zampetakis</a>
+	<div class="publication-conference"> <b> NeurIPS 2020 (Spotlight Presentation) </b> &#9830
+	34th Conference on Neural Information Processing Systems.</div>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2006.04237">arXiv:2006.04237</a>]
+	[<a href="https://proceedings.neurips.cc/paper/2020/hash/9fa83fec3cf3810e5680ed45f7124dce-Abstract.html">Conference</a>]</div>
+	</li>
+	
+	<li> <strong>Regarding two conjectures on clique and biclique partitions</strong><br>
+	with <a href="https://math.mit.edu/~urschel/">John C. Urschel</a> and <a href="https://dblp.org/pid/225/6431.html">Jake Wellens</a>
+	<div class="publication-conference"> The Electronic Journal of Combinatorics (2021).</div> 
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/2005.02529">arXiv:2005.02529</a>]
+	[<a href="https://doi.org/10.37236/9564">Journal</a>]</div>
+	</li>
+
+	
+	<li> <strong>Near-Optimal Bounds for Online Caching with Machine-Learned Advice</strong>
+	<div class="publication-conference"> <b>SODA 2020</b> &#9830 31st ACM-SIAM Symposium on Discrete Algorithms. </div>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/1910.12172">arXiv:1910.12172</a>]
+	[<a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.112">Conference</a>]</div>
+	</li>
+	
+	<li> <strong>Conditional Hardness for Approximate Earth Mover Distance</strong>
+	<div class="publication-conference"> <b> APPROX 2019</b> &#9830 22nd Intl. Conference on Approximation Algorithms for Combinatorial Optimization Problems.</div>
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/1909.11068">arXiv:1909.11068</a>] 
+	[<a href="https://drops.dagstuhl.de/opus/volltexte/2019/11227/">Conference</a>] </div>
+	</li>
+	
+	<li> <strong>Off-diagonal Ordered Ramsey Numbers of Matchings</strong>
+	<div class="publication-conference"> The Electronic Journal of Combinatorics (2019).</div> 
+	<div class="publication-link"> [<a href="https://arxiv.org/abs/1808.04025">arXiv:1808.04025</a>]
+	[<a href="https://doi.org/10.37236/8085">Journal</a>]</div> 
+	</li>
+</ol>
+    <p> Authors are listed in alphabetical order, following the convention in mathematics and theoretical computer science. 
+	
+	<p> 
+  
+  </body>    
 </html>
