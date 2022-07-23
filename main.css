@@ -1,0 +1,23 @@
+body{
+    line-height: 1.5;
+    padding: 4em 1em;
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+font-size:1.05em;
+font-family: Georgia;
+background-color: black;
+color: white;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+li{
+    margin: .5em 0;
+}
+
+a{
+    color: #BEFAB4;
+}
